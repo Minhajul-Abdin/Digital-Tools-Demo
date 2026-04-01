@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "ResumePro Builder",
+    "description": "Create professional resumes with AI-powered suggestions and modern templates.",
+    "price": 10,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "https://i.ibb.co/k62dYqP1/design-tool.png"
+  },
+  {
+    "id": 2,
+    "name": "TaskFlow Manager",
+    "description": "Organize your daily tasks and boost productivity with smart scheduling.",
+    "price": 5,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Task automation", "Calendar sync", "Team collaboration"],
+    "icon": "https://i.ibb.co/ZRKSXFq2/operation.png"
+  },
+  {
+    "id": 3,
+    "name": "DesignKit Studio",
+    "description": "All-in-one graphic design tool for social media, ads, and branding.",
+    "price": 50,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Drag & drop editor", "5000+ assets", "Brand kits"],
+    "icon": "https://i.ibb.co/spVS2TWw/portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "CodeMaster IDE",
+    "description": "Lightweight and powerful coding environment for developers.",
+    "price": 20,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Syntax highlighting", "Auto-complete", "Git integration"],
+    "icon": "https://i.ibb.co/DPByw10F/social-media.png"
+  },
+  {
+    "id": 5,
+    "name": "FinanceTracker Pro",
+    "description": "Track expenses, manage budgets, and gain financial insights easily.",
+    "price": 25,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Expense tracking", "Budget planner", "Analytics dashboard"],
+    "icon": "https://i.ibb.co/LdT7HYY1/writing-2327400-1.png"
+  },
+  {
+    "id": 6,
+    "name": "Learnify AI",
+    "description": "Personalized learning platform powered by artificial intelligence.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Custom learning paths", "AI tutor", "Progress tracking"],
+    "icon": "https://i.ibb.co/Pvn17ZJ4/learnai.png"
+  }
+]
