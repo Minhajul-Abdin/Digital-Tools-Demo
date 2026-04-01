@@ -34,6 +34,7 @@ const Footer = () => {
     <a className="link link-hover">Help Center</a>
     <a className="link link-hover">Community</a>
     <a className="link link-hover">Contact</a>
+    <a className="link link-hover">Contact</a>
   </nav>
   <nav className="text-white">
     <h6 className="footer-title">Social</h6>
