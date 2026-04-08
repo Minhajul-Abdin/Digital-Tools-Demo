@@ -16,3 +16,4 @@ its a demo site where u can buy digital products
 - it has working dynamic tab toggle
 - used react Toastify
 - usage of props
+* Live link : https://dapper-daffodil-74f7f0.netlify.app/
